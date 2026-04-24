@@ -1,0 +1,15 @@
+.form-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+svg {
+    border: 1px solid #ccc;
+}
+
+.anim-field, .path-field { display: none; }
